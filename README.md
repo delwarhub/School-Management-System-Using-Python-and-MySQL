@@ -14,3 +14,20 @@ There are 5 options to do:
 3. Delete Existing Student
 4. Delete Existing Teacher
 5. Logout
+
+
+### In Teacher Login
+There are 3 options to do:
+* Teacher Menu
+1. Mark Student Register
+2. View Register
+3. Logout
+
+### In Student Login
+There are 3 options to do:
+* Students Menu
+1. View Register
+2. Download Register
+3. Logout
+
+
