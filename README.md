@@ -8,7 +8,7 @@ It is a complete project and implemented 3 different features.
 
 ### In Admin Login
 There are 5 options to do:
-Admin Menu
+* Admin Menu
 1. Register New Student
 2. Register New Teacher
 3. Delete Existing Student
